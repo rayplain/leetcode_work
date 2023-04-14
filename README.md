@@ -1,2 +1,2 @@
 # leetcode_work
-Just a repo for leetcode practice too stay fresh
+Just a repo for leetcode practice to stay fresh
